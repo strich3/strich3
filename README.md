@@ -7,4 +7,4 @@ Der Inhaber von Potato Network
 - Minecraft | mc.potatonetwork.de
 - TeamSpeak | ts.potatonetwork.de
 
---> https://github.com/strich3
+» https://github.com/strich3
