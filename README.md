@@ -2,9 +2,9 @@
 
 Der Inhaber von Potato Network
 
-- 👥 - Discord | https://dsc.gg/potatonetwork
-- 🎮 - Webseite | https://potato.mc-play.net
-- 🧶 - Minecraft | potato.mc-play.net
-- ⛺ - TeamSpeak | potato.mc-play.net
+- Discord | https://dsc.gg/potatonetwork
+- Webseite | https://www.potatonetwork.de
+- Minecraft | mc.potatonetwork.de
+- TeamSpeak | ts.potatonetwork.de
 
 --> https://github.com/strich3
